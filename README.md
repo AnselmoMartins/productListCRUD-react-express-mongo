@@ -40,4 +40,6 @@ You will need to set your mongoDB(mongoose) host at:
         |--- server.js
 ````
 
+## Product-list CRUD view
+
 ![Image description](https://i.imgur.com/wvSxmuC.png)
